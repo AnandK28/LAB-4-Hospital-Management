@@ -8,6 +8,7 @@ This application provides a way to record this information and to access these i
 
 ### UML DIAGRAMS:
 ## Usecase Diagram:
+<img width="970" height="832" alt="image" src="https://github.com/user-attachments/assets/b599da11-af7c-453e-ab69-97c15c07855d" />
 
 ## Sequence Diagram:
 <img width="759" height="667" alt="image" src="https://github.com/user-attachments/assets/de96a412-0e97-4a7c-940b-92fc25e6b952" />
