@@ -7,26 +7,33 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
-## Usecase Diagram:
-<img width="970" height="832" alt="image" src="https://github.com/user-attachments/assets/b599da11-af7c-453e-ab69-97c15c07855d" />
+USECASE DIAGRAM
 
-## Sequence Diagram:
-<img width="759" height="667" alt="image" src="https://github.com/user-attachments/assets/de96a412-0e97-4a7c-940b-92fc25e6b952" />
+![usecase4](https://github.com/user-attachments/assets/fb0ec00d-1aaf-480d-9ec7-63e100ab5c37)
 
-## Statechart Diagram:
-<img width="539" height="497" alt="image" src="https://github.com/user-attachments/assets/c041061f-ceb5-4b6d-bee8-b055b055ad75" />
 
-## Class Diagram:
-<img width="1195" height="917" alt="image" src="https://github.com/user-attachments/assets/fe548308-ae9b-42aa-a914-a4131b2b7d02" />
+CLASS DIAGRAM
 
-## Activity Diagram:
-<img width="1201" height="903" alt="image" src="https://github.com/user-attachments/assets/af253bc7-0f4e-4397-a1f0-7c33a02afe1c" />
+![class4](https://github.com/user-attachments/assets/da023a04-df46-4aa7-b443-1bdccc4e98e7)
 
-## Communication Diagram:
-<img width="789" height="621" alt="image" src="https://github.com/user-attachments/assets/f4b8e8bb-6838-47a8-81cf-dcfcc0c0c0c8" />
 
-## Package Diagram:
-<img width="1141" height="852" alt="image" src="https://github.com/user-attachments/assets/a0029d95-f143-45a4-8f7f-06c2e0ddcac8" />
+ACTIVITY DIAGRAM
+
+![activity4](https://github.com/user-attachments/assets/3a6cd41f-4bad-445f-b428-cae8fe9297db)
+
+SEQUENCE DIAGRAM
+
+![sequence4](https://github.com/user-attachments/assets/5748ca3e-6596-4ac8-8b68-cf7775bb63e9)
+
+PACKAGE DIRAGRAM
+
+![package4](https://github.com/user-attachments/assets/63635b94-cc98-4518-95ef-2ed087b67c78)
+
+
+COMMUNICATION DIAGRAM
+
+![comm4](https://github.com/user-attachments/assets/63d299a0-8a22-471b-9f65-bde4c1afb264)
+
 
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
